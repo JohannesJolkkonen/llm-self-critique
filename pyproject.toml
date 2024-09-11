@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "llm-validation"
+version = "0.1.0"
+description = ""
+authors = ["Johannes Jolkkonen <johannes.jolkkonen@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+instructor = "^1.4.0"
+openai = "^1.43.0"
+python-decouple = "^3.8"
+anthropic = "^0.34.1"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.5"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

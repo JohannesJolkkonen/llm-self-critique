@@ -1,0 +1,41 @@
+Transcript:
+
+Medical Receptionist: Thank you for calling ABC Medical Center. This is *redacted*. How may I assist you today?
+
+Patient: Hi *redacted*, I need to book an appointment with a doctor. I haven't been feeling well lately.
+
+Receptionist: I'm sorry to hear that you're not feeling well. I'd be happy to help you book an appointment. First, I'll need to verify your identity. Can you please provide the last four digits of your Social Security number?
+
+Patient: Sure, it's *redacted*.
+
+Receptionist: Thank you. And can you confirm your full name and date of birth?
+
+Patient: *redacted*, born on *redacted*.
+
+Receptionist: Perfect, thank you for verifying your identity, *redacted*. Now, let's proceed with booking an appointment for you. Can you please confirm your current address?
+
+Patient: Yes, it's *redacted*.
+
+Receptionist: Thank you. I'll make sure we have that address on file. Now, we'll need to update some contact information. Can you please provide your current email address?
+
+Patient: It's *redacted*.
+
+Receptionist: Thank you. And what's the best phone number to reach you?
+
+Patient: Yeah, it's.
+217-555.
+3892.
+
+Receptionist: Great, I've updated your contact information. Now, let's find a suitable appointment time for you. We have an opening tomorrow at 2:30 PM with Dr. *redacted*. Would that work for you?
+
+Patient: Yes, that works perfectly. Thank you.
+
+Receptionist: Excellent. I've booked your appointment with Dr. *redacted* for tomorrow at 2:30 PM. Is there anything else I can help you with today?
+
+Patient: No, that's all. Thank you for your help.
+
+Receptionist: You're welcome, *redacted*. Thank you for choosing ABC Medical Center. We look forward to seeing you tomorrow. Have a great day!
+
+Patient: You too. Goodbye.
+
+Receptionist: Goodbye.
